@@ -8,14 +8,18 @@
 <body>
 <?php
 //scalar types( contains one value)
-$string="";
+/*$string="";
 $int= 0;
 $float=0 ;//has decimal numbers
 $bool=false;
 
 $array=[];
 $bject=null; // we put the default values we always put inside a variables when we do not know the kind of data to have in them just yet. 
+*/
+$name="Brian Muema";
 ?>
-    
+
+<p> Hi! My name s <?php echo $name;?> , and I am a php!</p>
+
 </body>
 </html>

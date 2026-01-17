@@ -6,11 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-   <?php /* */
-   if(true){ ?>
-   
-    <p> some html text</p>
-  <?php }?>
+<p> This is a <?php echo "Awesome paragragph;";?> paragraph!</P>
+<?php echo "This is ALSO a paragraph!"; ?>
     
 </body>
 </html>

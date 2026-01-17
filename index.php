@@ -6,8 +6,9 @@
     <title>Document</title>
 </head>
 <body>
-<p> This is a <?php echo "Awesome paragragph;";?> paragraph!</P>
-<?php echo "This is ALSO a paragraph!"; ?>
+<?php
+$name = "Brian Muema"
+?>
     
 </body>
 </html>

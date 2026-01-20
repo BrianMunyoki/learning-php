@@ -17,9 +17,10 @@ $array=[];
 $bject=null; // we put the default values we always put inside a variables when we do not know the kind of data to have in them just yet. 
 */
 $name="Brian Muema";
+$test=$name
 ?>
 
-<p> Hi! My name s <?php echo $name;?> , and I am a php!</p>
+<p> Hi! My name s <?php echo $test;?> , and I am a php!</p>
 
 </body>
 </html>
